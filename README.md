@@ -25,7 +25,7 @@
 
 
 
-- 🔭 I’m currently working on Android Studio
+- 🔭 I’m currently working on Flutter.
 - 🌱 I’m currently learning react.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [Twitter - @munigmvenkatesh](https://twitter.com/munigmvenkatesh)
